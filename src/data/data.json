@@ -1,0 +1,162 @@
+{
+  "Header": {
+    "title": "We are IMPORT & EXPORT CO.",
+    "paragraph": "We provide our partners with many service platform that covers supply chain, logistics, distribution, sales, marketing, and co-packing. This system ensures that all our business activities are monitored and executed by finely selected calibers."
+  },
+  "About": {
+    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "Why": [
+      "Lorem ipsum dolor",
+      "Tempor incididunt",
+      "Lorem ipsum dolor",
+      "Incididunt ut labore"
+    ],
+    "Why2": [
+      "Aliquip ex ea commodo",
+      "Lorem ipsum dolor",
+      "Exercitation ullamco",
+      "Lorem ipsum dolor"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Project",
+      "smallImage": "img/portfolio/01-small.jpg"
+    },
+    {
+      "title": "Project",
+      "smallImage": "img/portfolio/02-small.jpg"
+    },
+    {
+      "title": " our Project",
+      "smallImage": "img/portfolio/03-small.jpg"
+    },
+    {
+      "title": "our Project",
+      "smallImage": "img/portfolio/04-small.jpg"
+    },
+    {
+      "title": "our Project",
+      "smallImage": "img/portfolio/05-small.jpg"
+    },
+    {
+      "title": "our Project",
+      "smallImage": "img/portfolio/06-small.jpg"
+    },
+    {
+      "title": "our Project",
+      "smallImage": "img/portfolio/07-small.jpg"
+    },
+    {
+      "title": "our Project",
+      "smallImage": "img/portfolio/08-small.jpg"
+    },
+    {
+      "title": "our Project",
+      "smallImage": "img/portfolio/09-small.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-wordpress",
+      "name": "Lorem ipsum dolor",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-cart-arrow-down",
+      "name": "Consectetur adipiscing",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-cloud-download",
+      "name": "Lorem ipsum dolor",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-language",
+      "name": "Consectetur adipiscing",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-plane",
+      "name": "Lorem ipsum dolor",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-pie-chart",
+      "name": "Consectetur adipiscing",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"I want to thank you all for providing us with a super service.\"",
+      "name": "Laila M"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"Very eager to please and resolve problems, taking a partner approach to a problem..\"",
+      "name": "Naser L"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"I’d recommend company to anyone, they’re responsive, knowledgeable, timely and the attitude of customer.\"",
+      "name": "Mona E"
+    }],
+    
+    
+  
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "Sameer Ali",
+      "job": "Director"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Nour Yassin",
+      "job": "Markting-Manager"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Yasser Ahmmed",
+      "job": "Store-Manager"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Kareem Ayman",
+      "job": "Project Manager"
+    }
+  ],
+  "Contact": {
+    "address": "New Cairo . Egypt ",
+    "phone": "+20100424445",
+    "email": "ehabsalama@company.com",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "brand 1",
+      "text": "Our tea - twining its English tea."
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "brand 2",
+      "text": "our candy the first in healthy product ."
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "brand 3",
+      "text": "our rice from india."
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "brand4",
+      "text": "the best choclate from many countries."
+    }
+  ]
+}
